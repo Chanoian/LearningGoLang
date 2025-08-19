@@ -1,4 +1,4 @@
-package main
+pa eackage main
 
 import "fmt"
 
